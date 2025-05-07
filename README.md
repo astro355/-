@@ -1,1 +1,1 @@
-# -loadstring(game:HttpGet("https://raw.githubuserco
+loadstring(game:HttpGet("https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau"))()
